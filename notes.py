@@ -76,5 +76,5 @@
 || --- 2. Adjust strategies based on opponent behavior and real-time conditions.                       ||
 || --- 3. Optimize scoring during both autonomous and human-controlled phases.                         ||
 ||                                                                                                     ||
-||==================================== End of Notes =====================================|| 
+||=========================================== End of Notes ============================================|| 
 """
